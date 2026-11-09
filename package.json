@@ -1,0 +1,8 @@
+{
+    "name": "typescript-is-prime",
+    "version": "1.0.0",
+    "description": "Bài thực hành về mảng và hàm trong TypeScript",
+    "dependencies": {
+        "typescript": "^4.1.5"
+    }
+}
